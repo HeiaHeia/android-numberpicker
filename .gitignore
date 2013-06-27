@@ -10,6 +10,8 @@ library/*
 !library/src/
 !library/res/
 !library/libs/
+!library/.classpath
+!library/.project
 !library/AndroidManifest.xml
 !library/build.xml
 !library/project.properties
